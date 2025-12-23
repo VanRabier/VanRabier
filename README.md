@@ -32,7 +32,7 @@ Je suis à la recherche d’une entreprise pour poursuivre mes études en altern
   
 ### Scripting
 - Bash
-- Python (débutant)
+- Python (débutante)
 
 ### Virtualisation
 - VMware
