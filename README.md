@@ -47,7 +47,9 @@ Je suis à la recherche d’une entreprise pour poursuivre mes études en altern
     - GLPI
 
 ## Projets
-
+- Windows Server 2022 + Active Directory Lab
+- Networking Labs with Cisco Packet Tracer
+  
 ## Certifications
 Titre Professionnel de Technicienne d’Asssistance en Informatique (Niveau 4)
 
