@@ -47,13 +47,18 @@ Je suis à la recherche d’une entreprise pour poursuivre mes études en altern
     - GLPI
 
 ## Projets
-- Windows Server 2022 + Active Directory Lab
-- Networking Labs with Cisco Packet Tracer
+- **IPFire Router Lab**
+    - Utilisation d’IPFire comme routeur pour assurer le routage LAN/WAN, la configuration du NAT et l’application de règles de pare-feu.
+    
+- **Windows Server 2022 + Active Directory Lab**
+    - Mise en place d’un contrôleur de domaine, gestion des utilisateurs et groupes, permissions de base et scénarios de support IT.
+  
+- **Networking Labs with Cisco Packet Tracer**
   
 ## Certifications
 Titre Professionnel de Technicienne d’Asssistance en Informatique (Niveau 4)
 
 ## 📌 Remarque
-Ce portfolio est un **travail en évolution constante**.  Il reflète mon engagement, ma motivation et ma volonté de progresser.
+Ce portfolio est un travail en évolution constante.  Il reflète mon engagement, ma motivation et ma volonté de progresser.
 <!--
 **VanRabier/VanRabier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
