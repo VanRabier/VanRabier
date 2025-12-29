@@ -56,7 +56,7 @@ Je suis à la recherche d’une entreprise pour poursuivre mes études en altern
 - **Networking Labs with Cisco Packet Tracer**
   
 ## Certifications
-Titre Professionnel de Technicienne d’Asssistance en Informatique (Niveau 4)
+- Titre Professionnel de Technicienne d’Asssistance en Informatique (Niveau 4)
 
 ## 📌 Remarque
 Ce portfolio est un travail en évolution constante.  Il reflète mon engagement, ma motivation et ma volonté de progresser.
