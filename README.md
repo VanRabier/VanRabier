@@ -1,4 +1,4 @@
-# Vanille Rabier - Étudiante en recherche d’alternance
+# Vanille Rabier - En recherche d’alternance
 
 ## À propos de moi
 Actuellement en reconversion professionnelle vers l’informatique, je suis diplômée du titre professionnel de Technicienne d’Assistance en Informatique.  Curieuse et impliquée, je développe continuellement mes compétences techniques à travers des projets pratiques et un apprentissage régulier.
@@ -6,7 +6,7 @@ Actuellement en reconversion professionnelle vers l’informatique, je suis dipl
 <a href="https://linkedin.com/in/vanillerabier/"><img src="https://img.shields.io/badge/-LinkendIn-0072b1?&style=for-the-badge&logo=linkenin&logoColor=white" /></a>
 
 ## Objectifs professionnels
-Je suis à la recherche d’une entreprise pour poursuivre mes études en alternance, consolider mes compétences techniques et évoluer progressivement vers un poste de Technicienne Informatique.
+Je suis à la recherche d’une entreprise pour poursuivre mes études en alternance afin de consolider mes compétences techniques et mettre mes connaissances en pratique dans un poste de Technicienne Informatique.
 
 ## Compétences & domaines étudiés
 - Maintenance et dépannage des postes informatiques
@@ -37,12 +37,10 @@ Je suis à la recherche d’une entreprise pour poursuivre mes études en altern
 ### Virtualisation
 - VMware
 
-### Cloud
-
 ### Outils IT
 - Microsoft 365
 - Outils de support à distance
-    - 
+    - AnyDesk
 - Notions de gestion de tickets
     - GLPI
 
