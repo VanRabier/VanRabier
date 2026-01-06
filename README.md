@@ -46,7 +46,7 @@ Je suis à la recherche d’une entreprise pour poursuivre mes études en altern
 
 ## Projets
 - <a href="https://github.com/VanRabier/Routeur-IPFire-Lab">**Router IPFire Lab**</a>
-    - Utilisation d’IPFire comme routeur pour assurer le routage LAN/WAN, la configuration du NAT et l’application de règles de pare-feu.
+    - Utilisation d’IPFire comme routeur pour assurer le routage LAN/WAN.
     
 - **Windows Server 2022 + Active Directory Lab**
     - Mise en place d’un contrôleur de domaine, gestion des utilisateurs et groupes, permissions de base et scénarios de support IT.
