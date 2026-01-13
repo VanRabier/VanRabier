@@ -45,10 +45,10 @@ Je suis à la recherche d’une entreprise pour poursuivre mes études en altern
     - GLPI
 
 ## Projets
-- <a href="https://github.com/VanRabier/Routeur-IPFire-Lab">**Lab Router IPFire**</a>
+- <a href="https://github.com/VanRabier/Lab-Routeur-IPFire">**Lab Router IPFire**</a>
     - Utilisation d’IPFire comme routeur pour assurer le routage LAN/WAN.
     
-- <a href="https://github.com/VanRabier/Lab-Active-Directory-Windows-Server-2022">**Lab Active Directory – Windows Server 2022b**</a>
+- <a href="https://github.com/VanRabier/Lab-Active-Directory-Windows-Server-2022">**Lab Active Directory – Windows Server 2022**</a>
     - Mise en place d’un contrôleur de domaine, gestion des utilisateurs et groupes, permissions de base et scénarios de support IT.
   
 - **Networking Labs with Cisco Packet Tracer**
