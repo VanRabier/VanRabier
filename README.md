@@ -50,6 +50,8 @@ Je suis à la recherche d’une entreprise pour poursuivre mes études en altern
     
 - <a href="https://github.com/VanRabier/Lab-Active-Directory-Windows-Server-2022">**Lab Active Directory – Windows Server 2022**</a>
     - Ce projet vise à mettre en place un environnement Active Directory sous Windows Server 2022 dans un environnement virtualisé.
+ 
+- <a href="https://github.com/VanRabier/>**Lab Cisco Packet Tracer – Réseau d'Entreprise Simple**</a>
   
 ## Certifications
 - Titre Professionnel de Technicienne d’Asssistance en Informatique (Niveau 4)
