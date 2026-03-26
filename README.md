@@ -44,16 +44,17 @@ Je suis à la recherche d’une entreprise pour poursuivre mes études en altern
 - Notions de gestion de tickets
     - GLPI
 
-## Projets
-- <a href="https://github.com/VanRabier/Lab-Routeur-IPFire">**Lab Router IPFire**</a>
-    - Utilisation d’IPFire comme routeur pour assurer le routage LAN/WAN.
-    
+## Expériences & Projets
+### Gestion du Parc Informatique et des Utilisateurs
 - <a href="https://github.com/VanRabier/Lab-Active-Directory-Windows-Server-2022">**Lab Active Directory – Windows Server 2022**</a>
-    - Ce projet vise à mettre en place un environnement Active Directory sous Windows Server 2022 dans un environnement virtualisé.
+  - Ce projet vise à mettre en place un environnement Active Directory sous Windows Server 2022 dans un environnement virtualisé.
  
+### Réseaux : Installation et Configuration des Services
+- <a href="https://github.com/VanRabier/Lab-Routeur-IPFire">**Lab Router IPFire**</a>
+  - Utilisation d’IPFire comme routeur pour assurer le routage LAN/WAN.
 - <a href="https://github.com/VanRabier/Packet-Tracer-Reseau-Entreprise-Simple">**Lab Cisco Packet Tracer – Réseau d'Entreprise Simple**</a>
-    - Ce lab consiste à concevoir et configurer un réseau d’entreprise simple à l’aide de Cisco Packet Tracer.
-  
+  - Ce lab consiste à concevoir et configurer un réseau d’entreprise simple à l’aide de Cisco Packet Tracer.
+
 ## Certifications
 - Titre Professionnel de Technicienne d’Asssistance en Informatique (Niveau 4)
 
